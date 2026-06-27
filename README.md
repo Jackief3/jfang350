@@ -14,7 +14,7 @@ Just Me
 Yes
 
 – Do you have a public repository for your Project?
-Maybe?
+Yes its public.
 
 – What is the link to your GitHub repository?
 In the works!
