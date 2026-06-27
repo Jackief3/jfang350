@@ -4,7 +4,31 @@ SE 350 Project
 
 
 
-Are you in a Group?– If so, who else is in your group?– Do you have your GitHub account set up?– Do you have a public repository for your Project?– What is the link to your GitHub repository?– If you are in a group, does everyone have write access to the github repo?– Do you have a “Hello World” program that compiles and runs?– Where is the entry point to your project? (src/main/Main.java for
+– Are you in a Group?
+No
 
-example)
+– If so, who else is in your group?
+Just Me
+
+– Do you have your GitHub account set up?
+Yes
+
+– Do you have a public repository for your Project?
+Maybe?
+
+– What is the link to your GitHub repository?
+In the works!
+
+– If you are in a group, does everyone have write access to the github repo?
+Not in a group
+
+– Do you have a “Hello World” program that compiles and runs?
+Yes
+
+– Where is the entry point to your project? (src/main/Main.java for example)
+The entry point is src/main/Main just like yours in the video.
+
+// Reminder to create video for sprint 1.
+
+
 
