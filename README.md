@@ -2,8 +2,6 @@
 
 SE 350 Project
 
-
-
 – Are you in a Group?
 No
 
@@ -25,10 +23,9 @@ Not in a group
 – Do you have a “Hello World” program that compiles and runs?
 Yes
 
-– Where is the entry point to your project? (src/main/Main.java for example)
+– Where is the entry point to your project? (src/main/Main.java for example)?
 The entry point is src/main/Main just like yours in the video.
 
-// Reminder to create video for sprint 1.
 
 
 
