@@ -1,7 +1,7 @@
 # jfang350
 
 SE 350 Project
-
+**SPRINT 1**
 – Are you in a Group?
 
 No
@@ -41,6 +41,17 @@ Yes
 
 The entry point is src/main/Main just like yours in the video.
 
+**SPRINT 2**
 
+The project I've decided to go with is a task management system.
 
+This project will be a Java-based task management application that allows users to create, edit, organize, prioritize, and complete tasks through a simple menu-driven interface.
+
+Core features of the app are the following:
+- Create Tasks
+- Edit Tasks
+- View Tasks
+- Delete Tasks
+- Mark Tasks Complete
+- Exit
 
