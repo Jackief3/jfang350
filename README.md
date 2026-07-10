@@ -1,7 +1,9 @@
 # jfang350
 
 SE 350 Project
+
 **SPRINT 1**
+
 – Are you in a Group?
 
 No
@@ -40,6 +42,7 @@ Yes
 – Where is the entry point to your project? (src/main/Main.java for example)?
 
 The entry point is src/main/Main just like yours in the video.
+
 
 **SPRINT 2**
 
