@@ -58,3 +58,35 @@ Core features of the app are the following:
 - Mark Tasks Complete
 - Exit
 
+
+**SPRINT 3**
+
+Design Pattern #1: Abstract Factory
+The Abstract Factory pattern is used to create different families of related objects in the task management system. Each concrete factory creates both a specific type of Task and its corresponding TaskValidator.
+
+#### Purpose
+
+The Abstract Factory pattern allows the app to create different types of tasks with corresponding validators without the client depending on concrete classes. The client interacts only with the TaskFactory interface, making the code easier to extend and maintain.
+
+#### Classes Used
+
+- TaskFactory (Abstract Factory)
+- WorkTaskFactory (Concrete Factory)
+- SchoolTaskFactory (Concrete Factory)
+- PersonalTaskFactory (Concrete Factory)
+
+- Task (Abstract Product)
+- WorkTask (Concrete Product)
+- SchoolTask (Concrete Product)
+- PersonalTask (Concrete Product)
+
+- TaskValidator (Abstract Product)
+- WorkTaskValidator (Concrete Product)
+- SchoolTaskValidator (Concrete Product)
+- PersonalTaskValidator (Concrete Product)
+
+- Menu (Client)
+
+  
+
+
