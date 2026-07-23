@@ -70,20 +70,23 @@ The Abstract Factory pattern allows the app to create different types of tasks w
 
 #### Classes Used
 
-- TaskFactory (Abstract Factory)
+- TaskFactory (Abstract Factory Interface)
 - WorkTaskFactory (Concrete Factory)
 - SchoolTaskFactory (Concrete Factory)
 - PersonalTaskFactory (Concrete Factory)
+
 
 - Task (Abstract Product)
 - WorkTask (Concrete Product)
 - SchoolTask (Concrete Product)
 - PersonalTask (Concrete Product)
 
-- TaskValidator (Abstract Product)
+
+- TaskValidator (Abstract Product Interface)
 - WorkTaskValidator (Concrete Product)
 - SchoolTaskValidator (Concrete Product)
 - PersonalTaskValidator (Concrete Product)
+
 
 - Menu (Client)
 
