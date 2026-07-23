@@ -90,6 +90,10 @@ The Abstract Factory pattern allows the app to create different types of tasks w
 
 - Menu (Client)
 
+Here is the UML diagram for the Abstract Factory Design Pattern:
+<img width="600" height="419" alt="AbstractFactoryUML" src="https://github.com/user-attachments/assets/60c20fdf-9929-42c8-84c3-624406ee7e20" />
+
+
   
 
 
