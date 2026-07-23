@@ -1,10 +1,10 @@
 package task;
 
-public class Task {
+public abstract class Task {
 
-    private String title;
-    private String description;
-    private boolean completed;
+    protected String title;
+    protected String description;
+    protected boolean completed;
 
     public Task(String title, String description) {
         this.title = title;
@@ -16,16 +16,8 @@ public class Task {
         return title;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
     public String getDescription() {
         return description;
-    }
-
-    public void setDescription(String description) {
-        this.description = description;
     }
 
     public boolean isCompleted() {
@@ -38,8 +30,6 @@ public class Task {
 
     @Override
     public String toString() {
-        return "Title: " + title +
-               "\nDescription: " + description +
-               "\nCompleted: " + completed;
+        return title;
     }
 }
