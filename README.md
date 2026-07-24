@@ -94,6 +94,25 @@ Here is the UML diagram for the Abstract Factory Design Pattern:
 <img width="600" height="419" alt="AbstractFactoryUML" src="https://github.com/user-attachments/assets/60c20fdf-9929-42c8-84c3-624406ee7e20" />
 
 
-  
+Design Pattern #2: Command
+
+The Command design pattern is used to encapsulate user actions as command objects. Instead of the `Menu` class directly performing operations such as adding or viewing tasks, it creates and executes command objects. This separates the user interface from the business logic, making the application easier to extend and maintain.
+
+
+### Purpose
+
+The Command pattern encapsulates each menu action into its own command object. The `Menu` class acts as the invoker by creating and executing commands, while the `TaskManager` acts as the receiver that performs the requested operations. This design reduces coupling between the user interface and the application's functionality, making it easier to add new commands in the future.
+
+
+### Classes Used
+
+- Command (Command)
+- AddTaskCommand (Concrete Command)
+- ViewTasksCommand (Concrete Command)
+- ExitCommand (Concrete Command)
+- TaskManager (Receiver)
+- Menu (Invoker/Client)
+
+
 
 
